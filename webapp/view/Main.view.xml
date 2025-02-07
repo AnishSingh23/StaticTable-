@@ -1,0 +1,15 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="test.controller.Main">
+    <Table id="idTable" items="{ path: 'demoModel>/empData', factory: '.createRow' }">
+        <columns>
+            <Column>
+                <Text text="Name" />
+            </Column>
+            <Column>
+                <Text text="Age" />
+            </Column>
+            <Column>
+                <Text text="Department" />
+            </Column>
+        </columns>
+    </Table>
+</mvc:View>

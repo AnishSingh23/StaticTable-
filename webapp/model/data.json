@@ -1,0 +1,12 @@
+{
+    "empData": [
+      { "name": "Anish", "age": 26, "department": "IT" },
+      { "name": "Manish", "age": 10, "department": "Finance" },
+      { "name": "Aman", "age": 55, "department": "HR" },
+      { "name": "Akshay", "age": 18, "department": "BSO" },
+      { "name": "Pankaj", "age": 29, "department": "HR" },
+      { "name": "Rupa", "age": 61, "department": "Gvt" },
+      { "name": "Ishuu", "age": 14, "department": "IT" }
+    ]
+  }
+  
